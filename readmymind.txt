@@ -5,16 +5,15 @@ The Killers Cover by Rose
 Capo 6
 
 Chords: Play only 2nd-6th strings on down strum and only 1st string on up string
-G Em7 Dsus4 C
 
-            Easier play Em instead of Em7
-3 3 3 3     3 3 3 3
-3 3 3 1     0 0 3 1
-0 0 2 2     0 0 2 2
-0 2 0 0     0 2 0 0
-2 2 0 3     2 2 0 3
-3 0 x x     3 0 x x
+G Em Dsus4 C
 
+3 3 3 3
+0 0 3 1
+0 0 2 2
+0 2 0 0
+2 2 0 3
+3 0 x x
 
 Strum 4/4:
 D u - D u - D u
@@ -22,35 +21,35 @@ D u - D u - D u
 # Song
 
 Intro:
-G Em7 Dsus4 C
-G Em7 Dsus4 C
+G Em Dsus4 C
+G Em Dsus4 C
 
 Verse: Palm mute the first two out of every three bars
-G - 3 - - - G - 3 - - - G - 3 - Em7 3 - - - Em7 3 - - - Em7 3 -
+G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
         On the  corner  of      main            street
 D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
     Justtryina  keep it in      line
 
-G - 3 - - - G - 3 - - - G - 3 - Em7 3 - - - Em7 3 - - - Em7 3 -
+G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
     You say you wanna   move    on              and
 D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
     You say I'm falling be  -   hind    can you read    my
 
-G - 3 - - - G - 3 - - - G - 3 - Em7 3 - - - Em7 3 - - - Em7 3 -
+G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
 mind
 D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
 
-G - 3 - - - G - 3 - - - G - 3 - Em7 3 - - - Em7 3 - - - Em7 3 -
+G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
     I   ne- ver really  gave    up              on
 D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
         Breakin out of  this    two star        town
 
-G - 3 - - - G - 3 - - - G - 3 - Em7 3 - - - Em7 3 - - - Em7 3 -
+G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
     I   got the green   light       I   got a   little  fight
 D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
     I'm gonna   turnthisthing   around  can you read    my
 
-G - 3 - - - G - 3 - - - G - 3 - Em7 3 - - - Em7 3 - - - Em7 3 -
+G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
 mind
 D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
 
