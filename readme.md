@@ -1,3 +1,3 @@
 # Guitar Tab
 
-No code. Only guitar tab.
+No code. Only guitar music.
