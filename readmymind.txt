@@ -21,39 +21,54 @@ D u - D u - D u
 # Song
 
 Intro:
+x x x x
 G Em Dsus4 C
 G Em Dsus4 C
 
-Verse: Palm mute the first two out of every three bars
+Verse: Palm mute 2nd-6th string for the first two out of every three bars.
 G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
         On the  corner  of      main            street
-D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
+Ds4 3 - - - Ds4 3 - - - Ds4 3 - C - 3 - - - C - 3 - - - C - 3 -
     Justtryina  keep it in      line
 
 G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
     You say you wanna   move    on              and
-D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
+Ds12 3 - - - Ds4 3 - - - Ds4 3 - C - 3 - - - C - 3 - - - C - 3 -
     You say I'm falling be  -   hind    can you read    my
 
 G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
 mind
-D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
+Ds4 3 - - - Ds4 3 - - - Ds4 3 - C - 3 - - - C - 3 - - - C - 3 -
 
 G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
     I   ne- ver really  gave    up              on
-D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
+Ds4 3 - - - Ds4 3 - - - Ds4 3 - C - 3 - - - C - 3 - - - C - 3 -
         Breakin out of  this    two star        town
 
 G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
     I   got the green   light       I   got a   little  fight
-D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
+Ds4 3 - - - Ds4 3 - - - Ds4 3 - C - 3 - - - C - 3 - - - C - 3 -
     I'm gonna   turnthisthing   around  can you read    my
 
 G - 3 - - - G - 3 - - - G - 3 - Em  3 - - - Em  3 - - - Em  3 -
-mind
-D - 3 - - - D - 3 - - - D - 3 - C - 3 - - - C - 3 - - - C - 3 -
+mind                
+Ds4 3 - - - Ds4 3 - - - Ds4 3 - D - D - - - D - D - - - D - D -
+                                            The goodold 
 
 Chorus:
-C G D D
-C G D D
-C G D C D
+C - C - - - C - C - - - C - C - G - G - - - G - G - - - G - G -
+days        the ho-     nest    man         the restless
+D - D - - - D - D - - - D - D - D - D - - - D - D - - - D - D -
+heart       the promised        land        a   subtle
+C - C - - - C - C - - - C - C - G - G - - - G - G - - - G - G -
+kiss        thatno      one     sees        a   broken
+D - D - - - D - D - - - D - D - D - D - - - D - D - - - D - D -
+wrist   and a   big     trapeze     oh  well    I       don't
+C - C - - - C - C - - - C - C - G - G - - - G - G - - - G - G -
+mind    if  you         don't   mind        coz I       don't
+D - D - - - - - B7 - B7 - - - - Em- Em- - - Em- Em- - - Em- Em-
+shine   if  you           don't             before  you     go
+C - C - - - C - C - - - C - C - C - C - - - C - C - - - C - C -
+                                        can you read    my
+Ds4 Ds4 - - Ds4 Ds4 - - Ds4 Ds4 D - D - - - D - D - - - D - D -
+mind
